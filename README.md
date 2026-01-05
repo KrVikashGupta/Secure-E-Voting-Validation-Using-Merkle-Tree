@@ -78,15 +78,25 @@ Status: VALID
 
 ---
 
-## Author
-**Vikash Kumar Gupta**
-📍 Bokaro Steel City, Jharkhand
-✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)
-🔗 [LinkedIn]([https://www.linkedin.com/in/vikash1995/])) | [GitHub](https://github.com/KrVikashGupta)
+## 🤝 Contributing
 
-## License
+Contributions are welcome! Feel free to fork the repository, open issues, and submit pull requests.
+
+---
+
+## 🪪 License
+
 This project is licensed under the **MIT License**.
-```
 
-tps://www.linkedin.com/in/vikash1995/])) | [GitHub](https://github.com/KrVikashGupta)
+---
 
+## 📫 Contact
+
+**Vikash Kumar Gupta**  
+📍 Bokaro Steel City, Jharkhand  
+✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)  
+🔗 [LinkedIn](https://linkedin.com/in/vikash1995) | [GitHub](https://github.com/KrVikashGupta)
+
+---
+
+⭐ If you find this project useful, please consider giving it a star to support the work!
