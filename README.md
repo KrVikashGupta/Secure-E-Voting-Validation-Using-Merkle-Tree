@@ -1,15 +1,9 @@
 
-# 🚀 Secure E-Voting Validation System
+# 🚀 Secure E-Voting Validation System Using Merkle Tree
 
 [![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)](https://isocpp.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/KrVikashGupta?style=social)](https://github.com/KrVikashGupta) [![GitHub forks](https://img.shields.io/github/forks/KrVikashGupta?style=social)](https://github.com/KrVikashGupta) [![GitHub issues](https://img.shields.io/github/issues/KrVikashGupta?color=orange)](https://github.com/KrVikashGupta/issues)
 
-A **tamper-proof E-Voting Validation System** in **C++** using **FNV-1a hashing** and **Merkle Trees**, ensuring **secure voter verification** and **data integrity**.
-
----
-
-## 📊 GitHub Stats
-
-![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrVikashGupta\&show_icons=true\&theme=onedark\&count_private=true\&hide=prs)
+A **Secure E-Voting Validation System Using Merkle Tree** in **C++** using **FNV-1a hashing** and **Merkle Trees**, ensuring **secure voter verification** and **data integrity**.
 
 ---
 
@@ -103,19 +97,12 @@ Contributions welcome!
 
 ---
 
-## 🪪 License
-
-MIT License – see [LICENSE](LICENSE)
-
----
-
 ## 📫 Contact
 
-**Vikash Kumar Gupta**
-📍 Bokaro Steel City, Jharkhand
-✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)
+**Vikash Kumar Gupta**  
+📍 Bokaro Steel City, Jharkhand  
+✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/vikash1995) | [GitHub](https://github.com/KrVikashGupta)
-
 ---
 
 ⭐ **If this project helped you, don’t forget to give it a star!**
