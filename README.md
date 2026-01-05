@@ -1,5 +1,5 @@
 
-# Secure E-Voting Validation System Using Merkle Tree
+# 🚀 Secure E-Voting Validation System Using Merkle Tree
 
 ## Overview
 This C++ project implements a **Secure E-Voting Validation System**.  
@@ -8,17 +8,17 @@ The system can detect any tampering with voter data and provide a tamper-proof v
 
 ---
 
-## Features
-- Secure verification of voter registration numbers  
-- Tamper detection using Merkle Tree  
-- Efficient hashing with FNV-1a  
-- CSV-based voter data input  
-- Clear visualization of Merkle Tree structure  
-- Modular and maintainable C++ implementation  
+✨ **Features**
+✅ Secure verification of voter registration numbers  
+✅ Tamper detection using Merkle Tree  
+✅ Efficient hashing with FNV-1a  
+✅ CSV-based voter data input  
+✅ Clear visualization of Merkle Tree structure  
+✅ Modular and maintainable C++ implementation  
 
 ---
 
-## Tools & Technologies
+##  🛠️ Tools & Technologies
 - **C++** – Core programming language  
 - **FNV-1a Hash Function** – For hashing voter IDs  
 - **Merkle Tree** – Tamper-proof tree structure  
@@ -79,104 +79,14 @@ Status: VALID
 ---
 
 ## Author
-**Vikash Kumar Gupta**  
-📧 vikashkumargupta907@gmail.com  
-📍 Bokaro Steel City, Jharkhand  
-
----
+**Vikash Kumar Gupta**
+📍 Bokaro Steel City, Jharkhand
+✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)
+🔗 [LinkedIn]([https://www.linkedin.com/in/vikash1995/])) | [GitHub](https://github.com/KrVikashGupta)
 
 ## License
 This project is licensed under the **MIT License**.
 ```
 
-
-# 🚀 Secure E-Voting Validation System
-
-A **C++ based system** that validates voter identities using **hashing** and **Merkle Tree** to ensure **data integrity** and **tamper-proof verification** in electronic voting environments.
-
----
-
-✨ **Features**
-✅ Verify voter registration numbers securely  
-✅ Detect tampering with votes using Merkle Tree  
-✅ Efficient hashing using FNV-1a algorithm  
-✅ Read voter data from CSV file  
-✅ Displays tree structure for visualization  
-✅ Modular and clean C++ implementation  
-
----
-
-🛠️ **Tech Stack**
-- **Language:** C++  
-- **Hashing Algorithm:** FNV-1a  
-- **Data Structure:** Merkle Tree  
-- **File Handling:** CSV input for voter records  
-- **Development:** Visual Studio Code, g++ Compiler  
-
----
-
-🚦 **How It Works**
-1️⃣ Load voter registration numbers from a CSV file.  
-2️⃣ Hash each voter ID using FNV-1a.  
-3️⃣ Build a Merkle Tree from the hashed voter IDs.  
-4️⃣ User enters a voter registration number.  
-5️⃣ The system searches the Merkle Tree to verify identity.  
-6️⃣ Displays the result as **VALID** or **INVALID**.  
-
----
-
-🚀 **Getting Started Locally**
-
-**Prerequisites**  
-- C++ compiler (`g++`)  
-- CSV file with voter registration numbers  
-
-**Clone the repository**  
-```bash
-git clone https://github.com/YourUsername/Secure-E-Voting-Validation-Using-Merkle-Tree.git
-````
-
-**Compile and run**
-
-```bash
-g++ evoting_validation.cpp -o evoting_validation
-./evoting_validation
-```
-
-**Input**
-Enter the voter ID when prompted.
-
-**Output**
-Displays the voter name, Merkle Tree structure, and verification status.
-
----
-
-🎯 **Future Enhancements**
-
-* Build Merkle Tree dynamically from large CSV datasets
-* Blockchain integration for immutable vote records
-* Graphical User Interface (GUI) for easy interaction
-* Multi-user and concurrent validation support
-
----
-
-🤝 **Contributing**
-Contributions are welcome!
-
-* Fork the repository
-* Open issues
-* Submit pull requests
-
----
-
-🪪 **License**
-This project is licensed under the MIT License.
-
----
-
-📫 **Contact**
-**Vikash Kumar Gupta**
-📍 Bokaro Steel City, Jharkhand
-✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)
-🔗 [LinkedIn](https://www.linkedin.com/in/vikash-kumar-gupta) | [GitHub](https://github.com/KrVikashGupta)
+tps://www.linkedin.com/in/vikash1995/])) | [GitHub](https://github.com/KrVikashGupta)
 
