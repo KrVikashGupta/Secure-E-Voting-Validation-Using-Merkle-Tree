@@ -1,65 +1,57 @@
 
-# 🚀 Secure E-Voting Validation System Using Merkle Tree
+# 🚀 Secure E-Voting Validation System
 
-## Overview
+[![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)](https://isocpp.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/KrVikashGupta?style=social)](https://github.com/KrVikashGupta) [![GitHub forks](https://img.shields.io/github/forks/KrVikashGupta?style=social)](https://github.com/KrVikashGupta) [![GitHub issues](https://img.shields.io/github/issues/KrVikashGupta?color=orange)](https://github.com/KrVikashGupta/issues)
 
-This **C++ project** implements a **Secure E-Voting Validation System** that ensures voter identity verification and data integrity using **FNV-1a hashing** and **Merkle Trees**.
-The system detects tampering, providing a **tamper-proof and verifiable voting process**.
-
----
-
-## ✨ Key Features
-
-* ✅ **Secure Voter Verification:** Validate voter registration numbers efficiently
-* ✅ **Tamper Detection:** Merkle Tree ensures data integrity
-* ✅ **Efficient Hashing:** FNV-1a hash function for fast and consistent results
-* ✅ **CSV Input:** Load voter data from files
-* ✅ **Merkle Tree Visualization:** Easy inspection of tree structure
-* ✅ **Modular C++ Code:** Clean, maintainable, and extensible
+A **tamper-proof E-Voting Validation System** in **C++** using **FNV-1a hashing** and **Merkle Trees**, ensuring **secure voter verification** and **data integrity**.
 
 ---
 
-## 🛠️ Technologies Used
+## 📊 GitHub Stats
 
-* **C++** – Core implementation
-* **FNV-1a Hash Function** – Consistent hashing of voter IDs
-* **Merkle Tree** – Tamper-proof verification structure
-* **CSV Parsing & File I/O** – Load and process voter data
-* **STL (Vectors, Smart Pointers)** – Efficient memory management
-* **Visual Studio Code / g++** – Development environment
+![Vikash's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrVikashGupta\&show_icons=true\&theme=onedark\&count_private=true\&hide=prs)
+
+---
+
+## ✨ Features
+
+* 🔐 **Secure Voter Verification**
+* 🌳 **Tamper Detection** with **Merkle Trees**
+* ⚡ **Efficient Hashing** using **FNV-1a**
+* 📄 CSV-based voter data input
+* 🖼️ Merkle Tree Visualization
+* 🧩 Modular and maintainable C++ code
+
+---
+
+## 🛠️ Tech Stack
+
+* **C++** – Core language
+* **FNV-1a Hash** – Fast, consistent hashing
+* **Merkle Tree** – Data integrity verification
+* **CSV Parsing & File I/O** – Load voter datasets
+* **STL (Vectors, Smart Pointers)** – Efficient memory handling
 
 ---
 
 ## ⚙️ How It Works
 
-1. Load voter registration numbers from a CSV file.
-2. Hash each voter ID using **FNV-1a**.
-3. Construct a **Merkle Tree** from the hashed IDs.
-4. User inputs a voter ID for validation.
-5. System verifies the ID via the Merkle Tree.
-6. Output: **VALID/INVALID** status along with voter name and Merkle Tree structure.
+### Project Workflow
+
+![Project Workflow](assets/workflow.png)
+
+**Steps:**
+
+1. Load voter IDs from a **CSV file**
+2. Hash each ID using **FNV-1a**
+3. Build a **Merkle Tree** from hashes
+4. User enters voter ID for validation
+5. System checks ID in Merkle Tree
+6. Output: `VALID` / `INVALID` + voter info
 
 ---
 
-## 🧩 Challenges Faced
-
-* Handling large datasets (~7000+ voters) efficiently
-* Ensuring consistent FNV-1a hash generation
-* Managing invalid or missing CSV data
-* Optimizing Merkle Tree construction and search
-
----
-
-## 📚 Learnings
-
-* Practical **Merkle Tree implementation**
-* Understanding **cryptographic hashing** and data integrity
-* Efficient **CSV parsing and file handling in C++**
-* Writing **modular, maintainable, and scalable code**
-
----
-
-## 💻 Sample Output
+## 🖥️ Sample Output
 
 ```
 =======================================
@@ -73,29 +65,47 @@ Status: VALID
 
 ---
 
+## ⚡ Challenges
+
+* Handling **large datasets (~7000+ voters)**
+* Ensuring consistent **hash generation**
+* Dealing with **invalid/missing CSV data**
+* Optimizing **Merkle Tree construction & search**
+
+---
+
+## 📚 Learnings
+
+* Implemented **Merkle Trees** from scratch
+* Learned **cryptographic hashing & data integrity**
+* Mastered **CSV parsing & file handling in C++**
+* Built **clean, modular, maintainable code**
+
+---
+
 ## 🚀 Future Enhancements
 
-* Dynamic Merkle Tree construction for large CSV datasets
-* Integrate with **blockchain** for immutable voting records
+* Dynamic Merkle Tree for **large CSV datasets**
+* **Blockchain integration** for immutable records
 * Add a **Graphical User Interface (GUI)**
-* Support **multi-user and concurrent validations**
-* Implement faster searches with **hash maps** for large datasets
+* Support **multi-user concurrent validations**
+* Implement **fast search** using hash maps
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome!
+Contributions welcome!
 
-* Fork the repository
-* Open issues
-* Submit pull requests
+* Fork & clone the repo
+* Open issues / submit pull requests
+* Optimize code or add features
 
 ---
 
 ## 🪪 License
 
-This project is licensed under the **MIT License**.
+MIT License – see [LICENSE](LICENSE)
 
 ---
 
@@ -108,8 +118,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-⭐ **If this project helped you, give it a star!**
+⭐ **If this project helped you, don’t forget to give it a star!**
 
 ---
-
 
