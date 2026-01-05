@@ -32,7 +32,8 @@ A **Secure E-Voting Validation System Using Merkle Tree** in **C++** using **FNV
 
 ### Project Workflow
 
-![Project Workflow](assert.png)
+![Project Workflow](Secure E Voting Validation Using Merkle Tree/E-voting-System-Verifier-using-trees-and-hash-chains/assert.png)
+
 
 **Steps:**
 
