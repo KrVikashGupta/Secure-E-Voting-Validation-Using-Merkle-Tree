@@ -103,9 +103,7 @@ Contributions welcome!
 📍 Bokaro Steel City, Jharkhand  
 ✉️ [vikashkumargupta907@gmail.com](mailto:vikashkumargupta907@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/vikash1995) | [GitHub](https://github.com/KrVikashGupta)
----
-
-⭐ **If this project helped you, don’t forget to give it a star!**
 
 ---
 
+⭐ If you find this project useful, please consider giving it a star to support the work!
