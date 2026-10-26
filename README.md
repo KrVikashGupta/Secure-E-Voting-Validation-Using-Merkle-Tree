@@ -1,4 +1,4 @@
-
+ 
 # 🚀 Secure E-Voting Validation System Using Merkle Tree
 
 [![C++](https://img.shields.io/badge/Language-C++-blue?logo=c%2B%2B)](https://isocpp.org/) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/KrVikashGupta?style=social)](https://github.com/KrVikashGupta) [![GitHub forks](https://img.shields.io/github/forks/KrVikashGupta?style=social)](https://github.com/KrVikashGupta) [![GitHub issues](https://img.shields.io/github/issues/KrVikashGupta?color=orange)](https://github.com/KrVikashGupta/issues)
