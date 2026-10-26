@@ -6,7 +6,7 @@
 A **Secure E-Voting Validation System Using Merkle Tree** in **C++** using **FNV-1a hashing** and **Merkle Trees**, ensuring **secure voter verification** and **data integrity**.
 
 ---
-
+    
 ## ✨ Features
 
 * 🔐 **Secure Voter Verification**
